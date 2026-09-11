@@ -31,6 +31,25 @@
 - 🎯 Working towards becoming a strong Software Engineer
 
 ---
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://instagram.com/yng_jatin__">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="YOUR_LEETCODE_URL">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="mailto:jatinsinghnegi08@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 
 ## 🚀 Currently Building
 
