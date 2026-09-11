@@ -159,29 +159,6 @@ CodeSync is designed to allow multiple team members to work on the same project 
 
 ---
 
-# 📈 Contribution Activity
-
-<div align="center">
-
-<a href="https://github.com/jatin87908">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jatin87908&theme=tokyo-night&hide_border=true&area=true&custom_title=Jatin%27s%20Contribution%20Activity" width="95%" alt="GitHub Contribution Activity Graph"/>
-
-</a>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jatin87908&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Trophies"/>
-
-</div>
-
----
 
 # 🚀 Featured Projects
 
