@@ -1,170 +1,337 @@
-I want you to completely redesign and professionally improve my GitHub Profile README.md.
+I want you to redesign my GitHub Profile README.md from scratch.
 
-My GitHub username is:
-jatin87908
+IMPORTANT:
+Do NOT make a generic GitHub README.
+Do NOT simply add many headings and statistics.
+I want a polished, compact, visually structured GitHub profile similar to a professional developer portfolio.
 
-My name is:
+I have attached a reference screenshot of the GitHub profile design I like.
+
+Study the reference screenshot carefully and recreate its DESIGN LANGUAGE, not its content.
+
+The reference profile has:
+- A clean centered introduction
+- Name + short professional headline
+- Small profile/follower badges
+- A compact About Me section
+- About Me written as short bullet points
+- A visually organized Tech Stack with technology icons
+- GitHub Analytics section
+- Contribution/activity visualization
+- Achievement/statistics sections
+- Featured projects
+- Social/contact section
+- Clean horizontal separators
+- Minimal text
+- Lots of visual information
+- Professional developer portfolio appearance
+
+My profile should feel like the same level of polish, but the content must be completely mine.
+
+==================================================
+MY INFORMATION
+==================================================
+
+Name:
 Jatin Singh Negi
 
-Current headline:
-BCA Student • Full Stack Developer • Python & DSA Enthusiast
+GitHub username:
+jatin87908
 
 Email:
 jatinsinghnegi08@gmail.com
 
-Instagram:
-https://instagram.com/yng_jatin__
-
 GitHub:
 https://github.com/jatin87908
 
-I am a BCA student and currently focused on Full Stack Development, Backend Development, Python, Data Structures & Algorithms and Software Engineering.
+Instagram:
+https://instagram.com/yng_jatin__
 
-My main current project is:
+LinkedIn:
+PLACEHOLDER_LINKEDIN
 
-CodeSync
-A real-time collaborative development workspace where multiple team members can work on the same project from different devices.
+LeetCode:
+PLACEHOLDER_LEETCODE
 
-CodeSync planned/current features include:
-- Authentication and Authorization
-- Project creation and management
-- Team collaboration
-- Project invitations
-- File management
-- Real-time synchronization
-- Role-based permissions
-- Change history
-- Frontend / Backend / Database / Testing / Documentation modules
-- Future AI/LLM integration
-
-My current learning areas:
-- Data Structures & Algorithms using Python
-- Backend Development
-- React.js
-- System Design Basics
-- Real-time applications
-
-My main technical skills that should be shown:
-Languages:
-Python, JavaScript, C, C++
-
-Frontend:
-HTML, CSS, React.js
-
-Backend:
-Node.js, Express.js
-
-Database:
-MongoDB, MySQL
-
-Tools:
-Git, GitHub, VS Code, Postman, Firebase
-
-IMPORTANT:
-Do NOT add technologies just to make the profile look impressive.
-Only include technologies mentioned above.
-Do not claim that I am an expert in anything.
-Keep the wording realistic for a BCA student/developer.
-
-I want the README to look modern, professional, clean and recruiter-friendly.
-
-==================================================
-REQUIRED README STRUCTURE
-==================================================
-
-1. HERO / HEADER SECTION
-
-Create a clean centered header:
-
-Hi 👋, I'm Jatin Singh Negi
-
+Headline:
 BCA Student • Full Stack Developer • Python & DSA Enthusiast
 
-Add:
-- Profile views counter
-- GitHub followers badge
-- GitHub profile link
+I am a BCA student focused on Full Stack Development, Backend Development, Python, Data Structures & Algorithms and Software Engineering.
 
-Do not overcrowd the header.
+==================================================
+ABOUT ME
+==================================================
 
---------------------------------------------------
+Create a compact About Me section similar to the reference screenshot.
 
-2. ABOUT ME
+Use short bullet points instead of long paragraphs.
 
-Create a concise professional About Me section.
+Include ideas such as:
 
-Mention:
-- BCA student
-- Full Stack Development
-- Backend Development
-- Python & DSA
-- Building real-world projects
-- Currently working on CodeSync
-- Interested in Software Engineering
+- 🎓 BCA student focused on software development
+- 💻 Building full-stack and backend applications
+- 🧠 Solving Data Structures & Algorithms problems using Python
+- 🚀 Currently building CodeSync
+- 🌱 Learning React.js, Backend Development and System Design
+- 🔧 Interested in building practical real-world software
+- 🎯 Working towards becoming a strong Software Engineer
 
-Keep this section short and natural.
+Keep this section concise.
 
---------------------------------------------------
+Do not make exaggerated claims such as:
+"expert", "professional engineer", "10x developer", etc.
 
-3. CURRENTLY WORKING ON
+==================================================
+CURRENT PROJECT
+==================================================
 
-Create a visually attractive section for CodeSync.
+Create a visually highlighted section for my main project.
 
-Explain CodeSync in 2-3 lines.
+Project:
 
-Then show its major features using icons/bullets:
+CodeSync
 
-🔐 Authentication
+Description:
+
+CodeSync is a real-time collaborative development workspace where multiple team members can work on the same project from different devices.
+
+Current/planned features:
+
+🔐 Authentication & Authorization
 👥 Team Collaboration
+🔗 Project Invitations
 📁 File Management
 🔄 Real-Time Synchronization
 📝 Change History
 🛡️ Role-Based Permissions
+📚 Frontend / Backend / Database / Testing / Documentation modules
 🤖 Future AI/LLM Integration
 
-Add a GitHub project link placeholder if the exact CodeSync repository URL is not known.
+Present this compactly.
 
-DO NOT invent a repository URL.
+Do NOT write a huge paragraph.
 
---------------------------------------------------
+==================================================
+TECH STACK
+==================================================
 
-4. CURRENTLY LEARNING
+Create a Tech Stack section visually similar to the reference screenshot.
 
-Create a clean section containing:
+Use technology icons rather than writing a giant list of technology names.
 
-🧠 Data Structures & Algorithms
-🐍 Python
-⚙️ Backend Development
-⚛️ React.js
-🏗️ System Design
-🔄 Real-Time Applications
+Only include technologies I actually use or am currently learning.
 
---------------------------------------------------
+Languages:
+Python
+JavaScript
+C
+C++
 
-5. TECH STACK
+Frontend:
+HTML
+CSS
+React.js
 
-Create separate categories:
+Backend:
+Node.js
+Express.js
 
-Languages
-Frontend
-Backend
-Database
-Tools
+Database:
+MongoDB
+MySQL
 
-Use clean technology icons.
+Tools:
+Git
+GitHub
+VS Code
+Postman
+Firebase
 
-Prefer reliable icon sources such as:
+Use reliable icons.
+
+Prefer:
 https://skillicons.dev/
 
-Do not use broken or outdated icon URLs.
+Example style:
 
---------------------------------------------------
+<img src="https://skillicons.dev/icons?i=python,js,c,cpp,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,postman,firebase" />
 
-6. FEATURED PROJECTS
+Organize the icons cleanly and prevent the section from becoming too large.
 
-Create a professional Featured Projects section.
+Do NOT include:
+Django
+Spring
+Next.js
+Photoshop
+Illustrator
+Figma
+Tailwind
+SQL Server
 
-Include these projects:
+unless there is clear evidence that I actually use them.
+
+==================================================
+GITHUB ANALYTICS
+==================================================
+
+This is VERY IMPORTANT.
+
+Create a polished GitHub Analytics section similar to the reference profile.
+
+I specifically want dynamic information for:
+
+- Total repositories
+- Stars received
+- Followers
+- Following
+- Total contributions
+- Commit activity
+- Most used languages
+- GitHub statistics
+- GitHub streak
+- Contribution activity graph
+
+Use my username:
+
+jatin87908
+
+Use reliable maintained services such as:
+
+github-readme-stats
+github-profile-summary-cards
+github-readme-streak-stats
+github-readme-activity-graph
+
+Do NOT hardcode statistics.
+
+All statistics should be dynamically generated.
+
+Do NOT invent numbers.
+
+==================================================
+STATISTICS LAYOUT
+==================================================
+
+Make the statistics visually balanced.
+
+Prefer layouts such as:
+
+GitHub Stats        Top Languages
+
+GitHub Streak
+
+Contribution Activity Graph
+
+Profile Summary
+
+Do NOT put 6-8 huge cards one after another.
+
+The result should be compact and visually clean.
+
+Use a consistent dark theme such as:
+
+tokyonight
+tokyo-night
+
+or another professional dark theme.
+
+==================================================
+CONTRIBUTION ACTIVITY
+==================================================
+
+Add a dedicated Contribution Activity section.
+
+Use:
+
+github-readme-activity-graph
+
+Username:
+jatin87908
+
+Make it responsive.
+
+Use a modern dark theme.
+
+Do not use obsolete/broken Heroku-based services.
+
+==================================================
+COMMIT ACTIVITY
+==================================================
+
+Include commit activity through a reliable GitHub statistics/activity widget.
+
+Do not show fake commit numbers.
+
+If a separate commit widget is unnecessary because the activity graph already covers it, do not duplicate it.
+
+==================================================
+TOTAL REPOSITORIES / STARS
+==================================================
+
+I want these metrics visible somewhere in the Analytics section:
+
+📦 Repositories
+⭐ Stars
+👥 Followers
+👤 Following
+
+Use dynamic values whenever technically possible.
+
+Never hardcode them.
+
+If a metric cannot reliably be generated dynamically, omit it rather than showing a fake number.
+
+==================================================
+GITHUB STREAK
+==================================================
+
+Add a GitHub Streak section.
+
+Use:
+
+github-readme-streak-stats
+
+Username:
+jatin87908
+
+Use a professional dark theme.
+
+==================================================
+CONTRIBUTION SNAKE
+==================================================
+
+Add a Contribution Snake section only if it can actually work.
+
+If a GitHub Action is required, create the required workflow separately.
+
+Do NOT place a broken snake image in the README.
+
+Also provide the GitHub Actions workflow needed to generate:
+
+github-contribution-grid-snake-dark.svg
+
+inside the output branch.
+
+==================================================
+GITHUB PROFILE TROPHY
+==================================================
+
+Add GitHub Profile Trophy.
+
+Username:
+jatin87908
+
+Keep it compact.
+
+Do not make the trophy section unnecessarily huge.
+
+==================================================
+FEATURED PROJECTS
+==================================================
+
+Create a beautiful Featured Projects section.
+
+Projects:
 
 1. CodeSync
 Real-time collaborative development workspace.
@@ -176,180 +343,85 @@ Food ordering web application.
 Job portal / professional networking style project.
 
 4. DSA Practice
-My Data Structures & Algorithms practice using Python.
+Data Structures & Algorithms practice using Python.
+
+For every project show:
+
+Project name
+Short 1-line description
+Tech stack
+GitHub button
+Live Demo button ONLY if an actual live URL exists
 
 IMPORTANT:
-Do not invent repository URLs.
 
-If the exact repository name is unknown, use a clearly marked placeholder such as:
+DO NOT invent repository URLs.
 
-YOUR_CODESYNC_REPO
+My exact repository URLs are not provided.
 
-or provide the repository name in a comment explaining that it must be replaced.
+Therefore use placeholders such as:
 
-Use attractive project cards/table layout if possible.
+YOUR_CODESYNC_REPO_URL
+YOUR_JENITO_REPO_URL
+YOUR_JOB_PORTAL_REPO_URL
+YOUR_DSA_REPO_URL
 
-Each project should have:
-- Project name
-- Short description
-- Technologies
-- GitHub link
-- Live Demo link only if an actual URL is provided
+Make these very obvious so I can replace them.
 
-Do NOT create fake links.
+Do not create fake URLs.
 
---------------------------------------------------
+Use a clean 2-column project layout if possible.
 
-7. GITHUB ANALYTICS
+==================================================
+DSA SECTION
+==================================================
 
-I specifically want a professional GitHub Analytics section.
-
-Include:
-
-- Total GitHub contributions/statistics
-- Total repositories
-- Stars received
-- Followers
-- Following
-- Commit statistics
-- Most used languages
-- Contribution activity
-- GitHub streak
-
-Use reliable dynamic GitHub widgets.
-
-Prefer:
-github-readme-stats
-github-profile-summary-cards
-github-readme-streak-stats
-
-Use:
-username=jatin87908
-
-Make sure all image URLs are correctly formatted.
-
---------------------------------------------------
-
-8. CONTRIBUTION ACTIVITY GRAPH
-
-Add a dedicated:
-
-📈 Contribution Activity
-
-section.
-
-Use:
-github-readme-activity-graph
-
-Username:
-jatin87908
-
-Use a modern dark theme such as Tokyo Night if supported.
-
-Make the graph responsive.
-
---------------------------------------------------
-
-9. COMMIT ACTIVITY
-
-Add a section showing commit/activity information.
-
-Use an appropriate GitHub statistics card or contribution/activity graph.
-
-Do not create fake commit numbers.
-
-All numbers must be dynamically generated from my GitHub username.
-
---------------------------------------------------
-
-10. TOTAL REPOSITORIES AND STARS
-
-Create a small statistics/badges area showing:
-
-📦 Total Repositories
-⭐ Stars Received
-👥 Followers
-🔱 Following
-
-These values should be dynamic wherever technically possible.
-
-Do NOT hardcode numbers.
-
-If a service cannot dynamically display one of these metrics, omit it instead of displaying fake information.
-
---------------------------------------------------
-
-11. GITHUB STREAK
-
-Add:
-
-🔥 GitHub Streak
-
-Use:
-github-readme-streak-stats
-
-Username:
-jatin87908
-
-Use a professional dark theme.
-
---------------------------------------------------
-
-12. CONTRIBUTION SNAKE
-
-Add a GitHub contribution snake section only if it can be configured correctly.
-
-If an external GitHub Action is required, provide the required GitHub Actions workflow separately.
-
-Do not add a broken image URL.
-
---------------------------------------------------
-
-13. GITHUB PROFILE TROPHIES
-
-Add a clean GitHub Profile Trophy section.
-
-Username:
-jatin87908
-
-Keep it minimal and professional.
-
---------------------------------------------------
-
-14. DSA / LEETCODE
-
-Create a:
+Create a compact section:
 
 🧠 DSA & Problem Solving
 
-section.
+Mention:
 
-Mention that I solve DSA problems using Python and practice problem solving regularly.
+- Solving DSA problems using Python
+- Practicing on LeetCode
+- Improving problem-solving and algorithmic thinking
 
-Do NOT invent my LeetCode problem count, rating, ranking or streak.
+Do NOT invent:
 
-If a dynamic LeetCode widget can be safely used, include it.
-Otherwise use clean badges without fake statistics.
+- LeetCode rating
+- Number of solved problems
+- Ranking
+- Contest rating
+- Streak
 
---------------------------------------------------
+If dynamic LeetCode statistics can be safely implemented, use them.
 
-15. GITHUB PROFILE SUMMARY
+Otherwise keep it simple.
 
-Add GitHub Profile Summary Cards if they are reliable.
+==================================================
+PROFILE SUMMARY
+==================================================
 
-Include:
+Add GitHub Profile Summary Cards if the service is currently working.
+
+Show:
+
 - Profile details
-- Repository languages
+- Repositories per language
 - Most committed languages
 
 Username:
 jatin87908
 
---------------------------------------------------
+Keep this section compact.
 
-16. CONNECT WITH ME
+==================================================
+CONNECT WITH ME
+==================================================
 
-Create a professional social section with:
+Create a clean centered social section.
+
+Include:
 
 GitHub
 LinkedIn
@@ -357,18 +429,10 @@ LeetCode
 Instagram
 Email
 
-IMPORTANT:
-I have not provided my exact LinkedIn and LeetCode URLs here.
+Known URLs:
 
-Therefore:
-DO NOT invent URLs.
-
-Use placeholders:
-
-YOUR_LINKEDIN_URL
-YOUR_LEETCODE_URL
-
-and clearly mark them so I can replace them.
+GitHub:
+https://github.com/jatin87908
 
 Instagram:
 https://instagram.com/yng_jatin__
@@ -376,76 +440,148 @@ https://instagram.com/yng_jatin__
 Email:
 jatinsinghnegi08@gmail.com
 
---------------------------------------------------
+Unknown URLs:
 
-17. FOOTER
+LinkedIn:
+PLACEHOLDER_LINKEDIN
 
-Add a simple professional footer such as:
+LeetCode:
+PLACEHOLDER_LEETCODE
 
-"Building. Learning. Solving. Improving. 🚀"
+Do NOT invent those URLs.
 
-Do not make it cheesy or overly motivational.
+Use attractive badges/icons.
 
 ==================================================
-DESIGN REQUIREMENTS
+VISUAL DESIGN
 ==================================================
 
-The entire README should have:
+THIS IS THE MOST IMPORTANT PART.
 
-- Modern developer portfolio aesthetic
-- Dark-theme-friendly widgets
-- Clean spacing
-- Consistent headings
-- Minimal but useful emojis
-- Professional wording
-- Recruiter-friendly presentation
-- No unnecessary sections
-- No excessive animations
-- No huge walls of text
-- No fake statistics
-- No fake projects
-- No fake links
-- No exaggerated claims
+The README should visually resemble a professional developer profile rather than a plain Markdown document.
 
-Use HTML where necessary for:
-- Center alignment
-- Images
-- Tables
-- Badges
+Use:
+
+- Centered header
+- Clean typography
+- Short sections
+- Horizontal separators
+- Consistent spacing
+- Technology icons
+- Statistics cards
 - Project cards
+- Badges
+- Small amounts of emojis
+- Dark-theme widgets
+- 2-column layouts where appropriate
+- Responsive HTML
+- Minimal text
 
-Make sure the Markdown is valid and GitHub-compatible.
+Avoid:
+
+❌ Huge paragraphs
+❌ Too many emojis
+❌ Giant headings
+❌ Repeating the same information
+❌ 20 different statistics cards
+❌ Fake statistics
+❌ Fake URLs
+❌ Fake projects
+❌ Unnecessary technologies
+❌ Broken widgets
+❌ Outdated external services
+❌ Excessive animations
+❌ Generic motivational quotes
 
 ==================================================
-VERY IMPORTANT
+TARGET VISUAL STRUCTURE
 ==================================================
 
-Before giving me the final README:
+Build the README roughly in this order:
 
-1. Check every HTML tag is properly closed.
-2. Check every image URL is syntactically correct.
-3. Check every GitHub stats URL uses:
-   username=jatin87908
-4. Do not use obsolete/broken Heroku services if a maintained alternative exists.
-5. Do not invent repository names.
-6. Do not invent LinkedIn or LeetCode URLs.
-7. Do not hardcode GitHub statistics.
-8. Do not include technologies that I did not mention.
-9. Do not include fake project links.
-10. Keep the README visually balanced.
-11. Make sure the README still looks good if one external statistics service temporarily fails.
-12. Do not duplicate the same information unnecessarily.
+1. Centered Header
+   Name
+   Professional headline
+   Profile views / followers
 
-OUTPUT FORMAT:
+2. About Me
+   Short bullet list
 
-First give me the complete final README.md inside ONE markdown code block.
+3. 🚀 Currently Building
+   CodeSync
 
-After the code block, give me a short section called:
+4. 🛠️ Tech Stack
+   Icon-based stack
 
-"Things you need to replace"
+5. 📊 GitHub Analytics
+   Stats + languages + repository/star/follower information
 
-List only the placeholders that I need to replace manually.
+6. 🔥 GitHub Streak
+
+7. 📈 Contribution Activity
+   Activity graph
+
+8. 🏆 Achievements
+   GitHub Trophy
+
+9. 🚀 Featured Projects
+   2-column project cards
+
+10. 🧠 DSA & Problem Solving
+
+11. 🐍 Contribution Snake
+
+12. 📊 GitHub Profile Summary
+
+13. 📫 Connect With Me
+
+14. Small footer
+
+==================================================
+IMPORTANT TECHNICAL REQUIREMENTS
+==================================================
+
+Before giving the final README:
+
+- Validate all HTML tags
+- Close every HTML tag
+- Validate Markdown
+- Check all image URLs
+- Check all query parameters
+- Use username=jatin87908 everywhere
+- Do not use obsolete widget URLs
+- Do not invent repositories
+- Do not invent social URLs
+- Do not invent statistics
+- Do not invent achievements
+- Do not claim technologies I don't use
+- Make sure broken external widgets do not destroy the overall layout
+- Keep the README GitHub-compatible
+- Make it work in GitHub's README renderer
+- Avoid JavaScript because GitHub README does not execute arbitrary JavaScript
+- Use HTML tables only where they improve layout
+- Keep the README reasonably lightweight
+
+==================================================
+FINAL OUTPUT
+==================================================
+
+Give me ONLY:
+
+1. One complete final README.md inside a single markdown code block.
+
+2. After that, a very short section:
+
+"REPLACE THESE"
+
+containing only the placeholders I need to replace manually.
+
+3. If Contribution Snake requires a GitHub Actions workflow, provide that workflow separately after the README.
+
+Do not give me multiple versions.
 
 Do not explain every section.
-Do not give me multiple README versions.
-Give me ONE polished final version ready to copy into my GitHub profile README.
+
+I want ONE polished, professional, copy-paste-ready GitHub Profile README for:
+
+jatin87908
