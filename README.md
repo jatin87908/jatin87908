@@ -111,20 +111,15 @@ CodeSync is designed to allow multiple team members to work on the same project 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jatin87908&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Jatin's GitHub Stats"/>
+<img width="49%" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Jatin's GitHub Stats"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatin87908&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Jatin's Top Languages"/>
+<img width="49%" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Jatin's Top Languages"/>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jatin87908&theme=tokyonight" alt="GitHub Profile Details"/>
+<img width="98%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Jatin's GitHub Profile Details"/>
 
 </div>
-
 
 ## 📌 GitHub Overview
 
