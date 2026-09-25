@@ -125,7 +125,6 @@ CodeSync is designed to allow multiple team members to work on the same project 
 
 </div>
 
----
 
 ## 📌 GitHub Overview
 
