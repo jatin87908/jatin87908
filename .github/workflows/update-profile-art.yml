@@ -1,33 +1,42 @@
-<div align="center">
+name: Update profile art
 
-<h3>
-<code>jatin@github ~ $ ./contributions.sh</code>
-</h3>
+on:
+schedule:
+- cron: "17 6 * * *"
+workflow_dispatch:
+push:
+branches:
+- main
 
-<img src="./contrib-heatmap.svg" width="860"/>
+permissions:
+contents: write
 
-<br><br>
+jobs:
+heatmap:
+runs-on: ubuntu-latest
 
-<h3>
-<code>jatin@github ~ $ whoami</code>
-</h3>
+```
+steps:
+  - name: Checkout repository
+    uses: actions/checkout@v4
 
-<table>
-<tr>
+  - name: Setup Python
+    uses: actions/setup-python@v5
+    with:
+      python-version: "3.11"
 
-<td valign="top">
-<img src="./avi-ascii.svg" width="370"/>
-</td>
+  - name: Install dependencies
+    run: pip install -r scripts/requirements.txt
 
-<td valign="top">
-<img src="./info-card.svg" width="490"/>
-</td>
+  - name: Fetch contributions
+    run: python scripts/fetch_contributions.py
 
-</tr>
-</table>
+  - name: Render heatmap
+    run: python scripts/render_heatmap_svg.py
 
-<br>
-
-<code>jatin@github ~ $ exit</code>
-
-</div>
+  - name: Commit updated heatmap
+    uses: stefanzweifel/git-auto-commit-action@v5
+    with:
+      commit_message: "chore: refresh contribution graph [skip ci]"
+      file_pattern: "data/contributions.json contrib-heatmap.svg"
+```
