@@ -1,0 +1,234 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+    width="490"
+    height="300"
+    viewBox="0 0 490 300">
+
+    <rect
+        width="100%"
+        height="100%"
+        rx="12"
+        fill="#0d1117"
+        stroke="#30363d"
+        stroke-width="2"
+    />
+
+    <!-- Header -->
+    <rect
+        x="0"
+        y="0"
+        width="490"
+        height="42"
+        rx="12"
+        fill="#161b22"
+    />
+
+    <text
+        x="20"
+        y="27"
+        font-family="monospace"
+        font-size="16"
+        font-weight="bold"
+        fill="#58a6ff">
+        jatin@github:~
+    </text>
+
+    <text
+        x="20"
+        y="72"
+        font-family="monospace"
+        font-size="13"
+        fill="#8b949e">
+        ─────────────────────────────────
+    </text>
+
+        <g opacity="0">
+            <animate
+                attributeName="opacity"
+                from="0"
+                to="1"
+                dur="0.4s"
+                begin="0.0s"
+                fill="freeze"
+            />
+
+            <text
+                x="25"
+                y="105"
+                font-family="monospace"
+                font-size="13"
+                font-weight="bold"
+                fill="#7ee787">
+                Now
+            </text>
+
+            <text
+                x="125"
+                y="105"
+                font-family="monospace"
+                font-size="13"
+                fill="#c9d1d9">
+                BCA 3rd Year Student
+            </text>
+        </g>
+        
+        <g opacity="0">
+            <animate
+                attributeName="opacity"
+                from="0"
+                to="1"
+                dur="0.4s"
+                begin="0.12s"
+                fill="freeze"
+            />
+
+            <text
+                x="25"
+                y="139"
+                font-family="monospace"
+                font-size="13"
+                font-weight="bold"
+                fill="#7ee787">
+                Focus
+            </text>
+
+            <text
+                x="125"
+                y="139"
+                font-family="monospace"
+                font-size="13"
+                fill="#c9d1d9">
+                Full Stack Development
+            </text>
+        </g>
+        
+        <g opacity="0">
+            <animate
+                attributeName="opacity"
+                from="0"
+                to="1"
+                dur="0.4s"
+                begin="0.24s"
+                fill="freeze"
+            />
+
+            <text
+                x="25"
+                y="173"
+                font-family="monospace"
+                font-size="13"
+                font-weight="bold"
+                fill="#7ee787">
+                Stack
+            </text>
+
+            <text
+                x="125"
+                y="173"
+                font-family="monospace"
+                font-size="13"
+                fill="#c9d1d9">
+                Python • JavaScript • React • Node
+            </text>
+        </g>
+        
+        <g opacity="0">
+            <animate
+                attributeName="opacity"
+                from="0"
+                to="1"
+                dur="0.4s"
+                begin="0.36s"
+                fill="freeze"
+            />
+
+            <text
+                x="25"
+                y="207"
+                font-family="monospace"
+                font-size="13"
+                font-weight="bold"
+                fill="#7ee787">
+                Learning
+            </text>
+
+            <text
+                x="125"
+                y="207"
+                font-family="monospace"
+                font-size="13"
+                fill="#c9d1d9">
+                DSA • System Design • AI/LLM
+            </text>
+        </g>
+        
+        <g opacity="0">
+            <animate
+                attributeName="opacity"
+                from="0"
+                to="1"
+                dur="0.4s"
+                begin="0.48s"
+                fill="freeze"
+            />
+
+            <text
+                x="25"
+                y="241"
+                font-family="monospace"
+                font-size="13"
+                font-weight="bold"
+                fill="#7ee787">
+                Project
+            </text>
+
+            <text
+                x="125"
+                y="241"
+                font-family="monospace"
+                font-size="13"
+                fill="#c9d1d9">
+                CodeSync
+            </text>
+        </g>
+        
+        <g opacity="0">
+            <animate
+                attributeName="opacity"
+                from="0"
+                to="1"
+                dur="0.4s"
+                begin="0.6s"
+                fill="freeze"
+            />
+
+            <text
+                x="25"
+                y="275"
+                font-family="monospace"
+                font-size="13"
+                font-weight="bold"
+                fill="#7ee787">
+                Goal
+            </text>
+
+            <text
+                x="125"
+                y="275"
+                font-family="monospace"
+                font-size="13"
+                fill="#c9d1d9">
+                SDE / Software Engineering
+            </text>
+        </g>
+        
+    <text
+        x="25"
+        y="282"
+        font-family="monospace"
+        font-size="11"
+        fill="#6e7681">
+        $ whoami → building things, learning every day
+    </text>
+
+    </svg>
+    
