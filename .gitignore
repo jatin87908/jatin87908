@@ -1,3 +1,11 @@
 .venv/
 __pycache__/
 *.pyc
+
+source-photo.jpg
+source-prepped.png
+
+source-photo.jpg
+source-photo.jpeg
+source-prepped.png
+source-no-bg.png

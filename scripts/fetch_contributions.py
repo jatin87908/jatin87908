@@ -1,16 +1,13 @@
 import json
 import re
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 
 import requests
 from bs4 import BeautifulSoup
 
-
 USERNAME = "jatin87908"
-
 URL = f"https://github.com/users/{USERNAME}/contributions"
-
 OUTPUT = Path("data/contributions.json")
 
 
@@ -19,9 +16,7 @@ def main():
 
     response = requests.get(
         URL,
-        headers={
-            "User-Agent": "Mozilla/5.0"
-        },
+        headers={"User-Agent": "Mozilla/5.0"},
         timeout=30,
     )
 
@@ -47,13 +42,11 @@ def main():
         if match:
             count = int(match.group(1).replace(",", ""))
 
-        days.append(
-            {
-                "date": date,
-                "count": count,
-                "level": int(level),
-            }
-        )
+        days.append({
+            "date": date,
+            "count": count,
+            "level": int(level),
+        })
 
     if not days:
         raise RuntimeError(
@@ -64,13 +57,13 @@ def main():
 
     data = {
         "username": USERNAME,
-        "updated_at": datetime.utcnow().isoformat() + "Z",
+        "updated_at": datetime.now(timezone.utc).isoformat(),
         "days": days,
     }
 
     OUTPUT.write_text(
         json.dumps(data, indent=2),
-        encoding="utf-8",
+        encoding="utf-8"
     )
 
     print(f"Saved {len(days)} contribution days.")
